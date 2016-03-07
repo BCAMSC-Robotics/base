@@ -1,7 +1,7 @@
 /**
- * @file array_utils.c
- * @author Ethan Ruffing <ethan@ethanruffing.com>
- * @since 2016-03-07
+ * \file array_utils.c
+ * \author Ethan Ruffing <ethan\ethanruffing.com>
+ * \since 2016-03-07
  *
  * Implementation of `array_utils.h`.
  */
